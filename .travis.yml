@@ -6,4 +6,4 @@ language: python # => 1
     install: # => 5
       - pip install -r requirements.txt
     script: # => 7
-      - python manage.py test
+      - python3 manage.py test
